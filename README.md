@@ -1,7 +1,7 @@
 # Numeric Operations 1 PCA
 
 ## Problem Description
-For this assignment, write a program that determines the kinetic energy of an object. Be sure to prompt the user for the mass and velocity in the appropriate units. (The units should be in the prompt, not entered by the user.)
+For this assignment, [write a program](src/my_code.py) that determines the kinetic energy of an object. Be sure to prompt the user for the mass and velocity in the appropriate units. (The units should be in the prompt, not entered by the user.)
 * Ask the user for the object's mass in kg
 * Ask the user for the object's velocity in meters/second.
 * Calculate the kinetic energy and print a response using the format below.

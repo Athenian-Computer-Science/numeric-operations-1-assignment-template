@@ -3,7 +3,7 @@
     {
       "name": "test1",
       "setup": "",
-      "run": "python3 src/my_code.py.py",
+      "run": "python3 src/my_code.py",
       "input": "5\r\n10",
       "output": "The kinetic energy of the object is 250.0 Joules.",
       "comparison": "included",
