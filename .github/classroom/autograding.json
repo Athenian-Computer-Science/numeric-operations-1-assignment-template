@@ -1,41 +1,21 @@
 {
   "tests": [
     {
-      "name": "Fix Code 2",
+      "name": "test1",
       "setup": "",
-      "run": "python3 src/fix_code_2.py",
-      "input": "blue\r\nberry",
-      "output": "The string blue\rberry has 10 letters.",
+      "run": "python3 src/my_code.py.py",
+      "input": "5\r\n10",
+      "output": "The kinetic energy of the object is 250.0 Joules.",
       "comparison": "included",
       "timeout": 10,
       "points": 5
     },
     {
-      "name": "Write code 2",
+      "name": "test2",
       "setup": "",
-      "run": "python3 src/write_code_2.py",
-      "input": "green\r\nyellow\r\npurple",
-      "output": "green\r yellow\r purple",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
-      "name": "Fix code 3",
-      "setup": "",
-      "run": "python3 src/fix_code_3.py",
-      "input": "",
-      "output": "Wilderness\r\nLength: 10",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
-      "name": "Write code 3",
-      "setup": "",
-      "run": "python3 src/write_code_3.py",
-      "input": "",
-      "output": "agilistic",
+      "run": "python3 src/my_code.py",
+      "input": "2.5\r\n50",
+      "output": "The kinetic energy of the object is 3125.0 Joules.",
       "comparison": "included",
       "timeout": 10,
       "points": null
